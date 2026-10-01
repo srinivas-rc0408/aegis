@@ -1,3 +1,5 @@
+<img src=".github/banner.png" width="100%" alt="aegis" />
+
 # AEGIS — Air-Gapped Engineering Intelligence System
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
